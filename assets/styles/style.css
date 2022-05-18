@@ -39,3 +39,9 @@ body {
     cursor: pointer;
     background-color: brown;
 }
+.tweet > h1{
+    border-style: solid;
+}
+.tweet{
+    width: 100%;
+}
